@@ -1,6 +1,6 @@
 # FCP_Trainer
 Version: [VersionBegin]1.0[VersionEnd]
 Link: [LinkBegin][LinkEnd]
-Changes: <NoChanges>
+Changes:
 [ChangesBegin_EN][ChangesEnd_EN]
 [ChangesBegin_RU][ChangesEnd_RU]
